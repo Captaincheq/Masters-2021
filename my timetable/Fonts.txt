@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Amatic SC
+Author: Vernon Adams,Ben Nathan,Thomas Jockin,Cyreal
+Url: https://fonts.google.com/specimen/Amatic+SC
