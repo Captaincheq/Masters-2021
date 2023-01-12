@@ -1,4 +1,4 @@
-function x = tone(frequency, observation_length); 
+function x = tone(frequency, observation_length)
 % x=tone(frequency, observation_length) is used to generate 
 % a sinusoidal signal x with frequency and observation 
 % length specified in the arguments. 
